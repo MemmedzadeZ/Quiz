@@ -1,0 +1,6 @@
+Sual: adada
+a.aa
+b.ss
+c.ww
+d.cc
+Correct answers->ww

@@ -1,0 +1,8 @@
+Sual: Azerbaycan paytaxdi haradir?
+A.Baki
+B.Gence
+C.Sheki
+D.Gedebey
+
+Correct answerBaki
+

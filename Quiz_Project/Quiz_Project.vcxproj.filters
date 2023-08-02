@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\QuizApp">
+      <UniqueIdentifier>{8a55e71a-a905-46ac-ba33-f02922ae3df5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Menu">
+      <UniqueIdentifier>{397c2ca0-2a61-4b72-aefa-385b11ddc356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Start__Quiz">
+      <UniqueIdentifier>{8a1dcb47-3a0c-4470-b477-c50be84e800e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Calsses">
+      <UniqueIdentifier>{34b57c8b-b98e-43a5-a38f-4a4489e47432}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\RUN">
+      <UniqueIdentifier>{ed01dcf0-2043-4839-b5fe-e5f937e4f44b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="QuizApp.h">
+      <Filter>Исходные файлы\QuizApp</Filter>
+    </ClInclude>
+    <ClInclude Include="New.h">
+      <Filter>Исходные файлы\QuizApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Save.h">
+      <Filter>Исходные файлы\QuizApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Create_Quiz.h">
+      <Filter>Исходные файлы\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Start_Quiz.h">
+      <Filter>Исходные файлы\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Previus.h">
+      <Filter>Исходные файлы\Start__Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="Show.h">
+      <Filter>Исходные файлы\Start__Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="Next.h">
+      <Filter>Исходные файлы\Start__Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="SubMit.h">
+      <Filter>Исходные файлы\Start__Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="Corrects_Answers.h">
+      <Filter>Исходные файлы\Start__Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="Leader.h">
+      <Filter>Исходные файлы\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Исходные файлы\Calsses</Filter>
+    </ClInclude>
+    <ClInclude Include="Answer.h">
+      <Filter>Исходные файлы\Calsses</Filter>
+    </ClInclude>
+    <ClInclude Include="Question.h">
+      <Filter>Исходные файлы\Calsses</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz.h">
+      <Filter>Исходные файлы\Calsses</Filter>
+    </ClInclude>
+    <ClInclude Include="Run.h">
+      <Filter>Исходные файлы\RUN</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Исходные файлы\RUN</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Исходные файлы\RUN</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
